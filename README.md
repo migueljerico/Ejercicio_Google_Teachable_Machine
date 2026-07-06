@@ -1,7 +1,7 @@
 # 🤖 Ejercicio Google Teachable Machine
 
-[![Language](https://img.shields.io/badge/Language-Python%20-%20JavaScript-blue?style=for-the-badge&logo=python&logoColor=white&logoWidth=20)](https://www.python.org/)
-[![Framework/Stack](https://img.shields.io/badge/Framework/Stack-None%20-%20Google%20Teachable%20Machine-red?style=for-the-badge)](https://teachablemachine.withgoogle.com/)
+[![Language](https://img.shields.io/badge/Language-Python%20--%20JavaScript-blue?style=for-the-badge&logo=python&logoColor=white&logoWidth=20)](https://www.python.org/)
+[![Framework/Stack](https://img.shields.io/badge/Framework%2FStack-None%20--%20Google%20Teachable%20Machine-red?style=for-the-badge)](https://teachablemachine.withgoogle.com/)
 [![Estado](https://img.shields.io/badge/Estado-Publicado-brightgreen?style=for-the-badge)](https://github.com/migueljerico/Ejercicio_Google_Teachable_Machine)
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
