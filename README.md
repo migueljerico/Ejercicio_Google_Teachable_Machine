@@ -51,10 +51,10 @@ El uso del proyecto se centra en seguir los pasos de la guía para interactuar c
 
 🛠️ Tecnologías:
 | Herramienta | Versión/Detalle | Uso en el proyecto |
-| --- | --- | --- |
+| --- | --- |
 | Google Teachable Machine | Standard Image Model | Entrenamiento y clasificación de imágenes con interfaz visual |
 
 📚 Contexto formativo o motivación del proyecto:
 Este proyecto se realizó como parte de un ejercicio formativo del INAEM en Análisis de Datos e IA, diseñado para comprender el aprendizaje supervisado y la clasificación de imágenes con herramientas accesibles y sin necesidad de programación avanzada.
 
-<p align="center">Desarrollado por @migueljerico y documentado por Gemini 2.5 Flash a través de la app Asistente de IA para Publicar Repositorios· 2026
+<p align="center">Desarrollado por @migueljerico · 2026</p>
